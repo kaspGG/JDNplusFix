@@ -3,3 +3,4 @@
 
 This is a Firefox, Edge & Chrome extension for Just Dance Now PLUS<br>
 It allows you to have any .png file *as an url* as your avatar in any version!<br>
+![How the extension works](https://github.com/kaspGG/JDNplusFix/blob/main/example.png?raw=true)
