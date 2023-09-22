@@ -1,4 +1,6 @@
-# <img src="https://github.com/kaspGG/JDNplusFix/blob/main/imgs/img.png?raw=true" width="640" height="182">
+<p align="center">
+ # <img src="https://github.com/kaspGG/JDNplusFix/blob/main/imgs/img.png?raw=true" width="640" height="182">
+</p>
 
 >This extension is made for a game modification by **RAMA**, not me.<br>
 
